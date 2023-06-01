@@ -1,0 +1,8 @@
+F:\C-sharp-co-ban\bai_tap_chuong2\bin\Debug\bai_tap_chuong2.exe.config
+F:\C-sharp-co-ban\bai_tap_chuong2\bin\Debug\bai_tap_chuong2.exe
+F:\C-sharp-co-ban\bai_tap_chuong2\bin\Debug\bai_tap_chuong2.pdb
+F:\C-sharp-co-ban\bai_tap_chuong2\obj\Debug\bai_tap_chuong2.csproj.AssemblyReference.cache
+F:\C-sharp-co-ban\bai_tap_chuong2\obj\Debug\bai_tap_chuong2.csproj.SuggestedBindingRedirects.cache
+F:\C-sharp-co-ban\bai_tap_chuong2\obj\Debug\bai_tap_chuong2.csproj.CoreCompileInputs.cache
+F:\C-sharp-co-ban\bai_tap_chuong2\obj\Debug\bai_tap_chuong2.exe
+F:\C-sharp-co-ban\bai_tap_chuong2\obj\Debug\bai_tap_chuong2.pdb

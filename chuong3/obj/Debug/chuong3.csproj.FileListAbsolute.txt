@@ -1,0 +1,8 @@
+F:\C-sharp-co-ban\chuong3\bin\Debug\chuong3.exe.config
+F:\C-sharp-co-ban\chuong3\bin\Debug\chuong3.exe
+F:\C-sharp-co-ban\chuong3\bin\Debug\chuong3.pdb
+F:\C-sharp-co-ban\chuong3\obj\Debug\chuong3.csproj.AssemblyReference.cache
+F:\C-sharp-co-ban\chuong3\obj\Debug\chuong3.csproj.SuggestedBindingRedirects.cache
+F:\C-sharp-co-ban\chuong3\obj\Debug\chuong3.csproj.CoreCompileInputs.cache
+F:\C-sharp-co-ban\chuong3\obj\Debug\chuong3.exe
+F:\C-sharp-co-ban\chuong3\obj\Debug\chuong3.pdb
